@@ -1,0 +1,11 @@
+﻿  forca.cpp
+forca.obj : error LNK2019: símbolo externo não resolvido, "void __cdecl imprime_cabecalho(void)" (?imprime_cabecalho@@YAXXZ), referenciado na função main
+forca.obj : error LNK2019: símbolo externo não resolvido, "class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > __cdecl le_arquivo(void)" (?le_arquivo@@YA?AV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@XZ), referenciado na função main
+forca.obj : error LNK2019: símbolo externo não resolvido, "void __cdecl sorteia_palavra(void)" (?sorteia_palavra@@YAXXZ), referenciado na função main
+forca.obj : error LNK2019: símbolo externo não resolvido, "bool __cdecl nao_enforcou(void)" (?nao_enforcou@@YA_NXZ), referenciado na função main
+forca.obj : error LNK2019: símbolo externo não resolvido, "void __cdecl imprime_erros(void)" (?imprime_erros@@YAXXZ), referenciado na função main
+forca.obj : error LNK2019: símbolo externo não resolvido, "void __cdecl imprime_palavra(void)" (?imprime_palavra@@YAXXZ), referenciado na função main
+forca.obj : error LNK2019: símbolo externo não resolvido, "void __cdecl chuta(void)" (?chuta@@YAXXZ), referenciado na função main
+forca.obj : error LNK2019: símbolo externo não resolvido, "void __cdecl adiciona_palavra(void)" (?adiciona_palavra@@YAXXZ), referenciado na função main
+forca.obj : error LNK2019: símbolo externo não resolvido, "bool __cdecl nao_acertou(void)" (?nao_acertou@@YA_NXZ), referenciado na função main
+D:\Pedro\Desktop\Pedro\Visual studio\conhecendoC++\forca\forca\x64\Debug\forca.exe : fatal error LNK1120: 9 externo não resolvidos
